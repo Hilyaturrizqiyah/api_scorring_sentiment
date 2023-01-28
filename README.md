@@ -25,10 +25,12 @@ dengan body request
 dan akan mengembalikan response dengan format
 ```json
 {
-  "tweet": "Aku menangis karena sedih",
+  "tweet": "Aku menangis karena sedih"
   "sentiment": "Sadness"
 }
 ```
+
+![Screenshot 2023-01-28 225122](https://user-images.githubusercontent.com/61138185/215276252-5d82b315-4633-4d9e-b06b-9d51058061a3.jpg)
 
 untuk lebih detail akses di endpoint 
 http://127.0.0.1:3000/docs
