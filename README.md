@@ -19,16 +19,16 @@ dengan body request
 
 ```json
 {
-  "tweet": "Semua selesai dirusak sama kamu"
+  "tweet": "Aku menangis karena sedih"
 }
 ```
 dan akan mengembalikan response dengan format
 ```json
 {
-  "tweet": "Semua selesai dirusak sama kamu",
+  "tweet": "Aku menangis karena sedih",
   "sentiment": "Sadness"
 }
 ```
 
 untuk lebih detail akses di endpoint 
-http://127.0.0.1:8000/docs
+http://127.0.0.1:3000/docs
